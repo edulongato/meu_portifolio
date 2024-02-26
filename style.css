@@ -1,0 +1,36 @@
+/* O meu arquivo CSS */
+
+/* Estilo da fonte */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Estilo do carousel */
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+/* Estilo dos cards */
+.card {
+    margin-top: 20px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Estilo do rodapé */
+.footer {
+    margin-top: 20px;
+    padding: 10px;
+}
